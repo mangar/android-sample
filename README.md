@@ -10,7 +10,7 @@ The samples will remain not suffer upgrades duo the evolution of technology.
 Sample testing with animation on Android
 
 ### Notification
-Sending and Receiving Push notification
+Sending and Receiving Push notification using Firebase
 
 
 
